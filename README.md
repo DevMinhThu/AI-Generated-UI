@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # AI-Generated-UI
-=======
-# Expo Navigation Template
 
 Multi-environment React Native template with:
 
@@ -445,4 +442,3 @@ export const lightColors = {
 
 cn('text-primary', 'text-customBrand'); // customBrand wins!
 ```
->>>>>>> faf028d (feat: init project)
